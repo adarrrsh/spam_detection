@@ -38,29 +38,6 @@ It uses **TF-IDF Vectorization** and a **Multinomial Naive Bayes model** to achi
 
 ---
 
-## 🏗️ Project Structure
-
-```
-
-sms-spam-detection/
-│── data/
-│   └── spam.csv
-│
-│── notebook/
-│   └── sms_spam_detection.ipynb
-│
-│── src/
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── predict.py
-│
-│── model/
-│   └── spam_model.pkl
-│
-│── requirements.txt
-│── README.md
-
-````
 
 ---
 
