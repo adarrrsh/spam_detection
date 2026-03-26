@@ -149,11 +149,3 @@ This project is licensed under the **MIT License**.
 **Adarsh**
 🚀 Building AI systems to solve real-world problems
 
-```
-
----
-
-If you want next level 🔥:
-- I can generate a **real demo GIF of your model running**
-- Or convert this into a **deployable API (FastAPI + Vercel/Render)** for your portfolio
-```
