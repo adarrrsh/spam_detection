@@ -1,5 +1,3 @@
-
-```markdown
 # 📩 SMS Spam Detection 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -81,71 +79,3 @@ The dataset is cleaned and processed using the following steps:
 ```bash
 git clone https://github.com/your-username/sms-spam-detection.git
 cd sms-spam-detection
-````
-
----
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-### 3️⃣ Run Training
-
-```bash
-python src/train.py
-```
-
----
-
-### 4️⃣ Predict Custom Message
-
-```bash
-python src/predict.py
-```
-
----
-
-## 📊 Example Usage
-
-```python
-message = "Congratulations! You've won a free ticket"
-prediction = model.predict([message])
-
-if prediction[0] == 1:
-    print("Spam 🚨")
-else:
-    print("Ham ✅")
-```
-
----
-
-## 📌 Future Improvements
-
-* 🤖 Deep Learning models (LSTM / Transformers)
-* 🌐 Deploy as API (Flask / FastAPI)
-* 📱 Real-time SMS filtering system
-* 📊 Improve feature engineering
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-
-**Adarsh**
-🚀 Building AI systems to solve real-world problems
-
